@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Competitive Coding and weirdly enough, Physics.
 - 🌱 I’m currently learning Advanced Data Structures, AI, ML and Web Dev.
 - 💞️ I’m looking to collaborate on any kind of projects that would help me to apply Python and Learn AI/ML.
-- 📫 How to reach me: I don't know i'm a private person. Ping me here if it's possible!
+- 📫 How to reach me: I don't know i'm a private person. Ping me on LinkedIn at https://www.linkedin.com/in/anuj-chavan-a8b859193/
 
 <!---
 FortKnoxWasTaken/FortKnoxWasTaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
