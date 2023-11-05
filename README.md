@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Anuj, I'm a Third Year Engineering Student who loves programming. 
-- 👀 I’m interested in Python, Technology and weirdly enough, Physics.
-- 🌱 I’m currently learning Quantum Computing, Data Analytics and Data Science.
-- 💞️ I’m looking to collaborate on any kind of projects that would help me to apply Python and Learn AI/ML closely related to the fields of Astronomy or Physics.
-- 📫 How to reach me: I don't know i'm a private person. Send me a mail from my website https://fortknoxwastaken.github.io/profile-page/
+- 👋 Hi, I’m Anuj, I'm an Engineering Graduate who loves scientific programming. 
+- 👀 I’m interested in Scientific Computing, Data Analysis and Machine Learning and its applications to Physics.
+- 🌱 I’m currently looking for roles in applied computational science and data analysis.
+- 💞️ I’m looking to collaborate on any applied science projects and research (including AI/ML) closely related to the fields of Astronomy, Physics or Engineering.
+<!---  - 📫 How to reach me: 
+-  I don't know i'm a private person. Send me a mail from my website https://fortknoxwastaken.github.io/profile-page/ --->
 - Cheers!!
 
 <!---
