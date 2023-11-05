@@ -2,9 +2,10 @@
 - 👀 I’m interested in Scientific Computing, Data Analysis and Machine Learning and its applications to Physics.
 - 🌱 I’m currently looking for roles in applied computational science and data analysis.
 - 💞️ I’m looking to collaborate on any applied science projects and research (including AI/ML) closely related to the fields of Astronomy, Physics or Engineering.
+- Cheers!!
 <!---  - 📫 How to reach me: 
 -  I don't know i'm a private person. Send me a mail from my website https://fortknoxwastaken.github.io/profile-page/ --->
-- Cheers!!
+
 
 <!---
 FortKnoxWasTaken/FortKnoxWasTaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
